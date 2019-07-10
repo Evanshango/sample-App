@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">App</string>
+    <string name="home_activity">Home Activity</string>
+    <string name="username">Username</string>
+    <string name="submit">Submit</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="register">Register</string>
+    <string name="already_have_an_account">Already have an account?</string>
+    <string name="home_page">Home Page</string>
+    <string name="welcome">Welcome:</string>
+    <string name="your_name">Your name</string>
+    <string name="not_yet_a_member">Not yet a Member?</string>
+    <string name="login">Login</string>
+</resources>
