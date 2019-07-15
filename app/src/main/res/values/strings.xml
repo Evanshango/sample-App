@@ -13,4 +13,8 @@
     <string name="your_name">Your name</string>
     <string name="not_yet_a_member">Not yet a Member?</string>
     <string name="login">Login</string>
+    <string name="book_title">Book Title</string>
+    <string name="category">Category</string>
+    <string name="description">Description</string>
+    <string name="home">Home</string>
 </resources>

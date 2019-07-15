@@ -59,6 +59,7 @@ public class LoginActivity extends AppCompatActivity {
         });
     }
 
+    //method to select an image from gallery
     @RequiresApi(api = Build.VERSION_CODES.M)
     private void pickImage() {
         if (checkSelfPermission(Manifest.permission.READ_EXTERNAL_STORAGE) != PackageManager.PERMISSION_GRANTED) {
